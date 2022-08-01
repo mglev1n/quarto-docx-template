@@ -1,0 +1,7 @@
+title: Test Document
+author: Firstname Lastname
+version: 1.0.0
+contributes:
+  formats:
+    docx:
+      reference-doc: custom-reference-doc.docx
