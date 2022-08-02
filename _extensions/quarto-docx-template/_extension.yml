@@ -5,5 +5,3 @@ contributes:
   formats:
     docx:
       reference-doc: custom-reference-doc.docx
-      
-      

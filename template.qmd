@@ -3,7 +3,7 @@ title: "Test Document"
 subtitle: "Subtitle"
 author: "Firstname Lastname"
 date: today
-format: arial-docx
+format: quarto-docx-template-docx
 ---
 
 # Overview
